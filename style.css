@@ -56,7 +56,12 @@ body {
 .links a {
     text-decoration: none;
     padding: 20px 25px;
-    color: #254637;
+    color: #294436;
+}
+
+.links a:hover{
+    color: black;
+    cursor: pointer;
 }
 
 .links img {
@@ -131,6 +136,9 @@ body {
     font-size:16px;
     margin: 20px 0px 0px 184px;
 }
+#readMore:hover{
+    cursor: pointer;
+}
 
 .sideBox {
     float: right;
@@ -169,6 +177,12 @@ td {
     font-size: 19px;
     font-weight: bold;
     padding: 2px;
+}
+
+td:hover{
+    cursor: pointer;
+    background-color: #0a5c5a;
+    color: white;
 }
 
 .centerLeftImage {
