@@ -102,7 +102,7 @@ body {
     width: 118%;
     height: 20%;
     position: relative;
-    top: 124px;
+    top: 140px;
     left: 19px;
 }
 
@@ -116,10 +116,12 @@ body {
     padding: 10px 0px 0px 182px;
     width: 533px;
     font-size: 25px;
+    line-height: 40px;
+    word-spacing: 5px;
 }
 
 .paragraph {
-    padding: 6px 0px 0px 187px;
+    padding: 13px 0px 0px 187px;
     width: 392px;
     font-size: 15px;
     word-spacing: 4px;
@@ -213,7 +215,7 @@ td:hover{
 }
 
 .contact {
-    font-size: 17px;
+    font-size: 16px;
     text-align: right;
     letter-spacing: 3px;
     position: absolute;
