@@ -72,7 +72,7 @@ body {
     position: absolute;
     padding: 52px 0px;
     top: 6.5rem;
-    left: 5rem;
+    left: 6rem;
 }
 
 .centerText {
@@ -99,7 +99,7 @@ body {
 .centerFooter {
     background-color: #c6cdc6;
     color: #254637;
-    width: 114%;
+    width: 118%;
     height: 20%;
     position: relative;
     top: 124px;
@@ -113,17 +113,18 @@ body {
 }
 
 .heading {
-    padding: 10px 0px 0px 180px;
+    padding: 10px 0px 0px 182px;
     width: 533px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .paragraph {
-    padding: 6px 0px 0px 184px;
+    padding: 6px 0px 0px 187px;
     width: 392px;
     font-size: 15px;
     word-spacing: 4px;
-    line-height: 19px;
+    line-height: 16px;
+    color: rgb(90, 109, 99);
 }
 
 #readMore {
@@ -133,9 +134,10 @@ body {
     border: none;
     width: 125px;
     height: 32px;
-    font-size:16px;
-    margin: 20px 0px 0px 184px;
+    font-size: 16px;
+    margin: 20px 0px 0px 188px;
 }
+
 #readMore:hover{
     cursor: pointer;
 }
@@ -186,15 +188,15 @@ td:hover{
 }
 
 .centerLeftImage {
-    left: 18rem;
+    left: 19rem;
 }
 
 .centerMiddleImage {
-    left: 29rem;
+    left: 30rem;
 }
 
 .centerRightImage {
-    left: 40rem;
+    left: 41rem;
 }
 
 .centerLeftImage,
